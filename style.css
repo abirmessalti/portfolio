@@ -96,7 +96,7 @@ header {
 #header-and-hero{
 background-image:
     linear-gradient(#0000004d, #0000004d),
-    url("images /abirhero.png");
+    url("images/abirhero.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
